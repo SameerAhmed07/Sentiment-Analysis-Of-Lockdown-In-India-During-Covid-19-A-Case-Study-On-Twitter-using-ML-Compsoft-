@@ -1,2 +1,3 @@
 # Sentiment-Analysis-Of-Lockdown-In-India-During-Covid-19-A-Case-Study-On-Twitter-using-ML-Compsoft-
 Sentiment Analysis Of Lockdown In India During Covid-19 A Case Study On  Twitter using ML-Compsoft Technologies
+Our primary goal is to employ state-of-the-art machine learning algorithms developed by Compsoft Technologies to conduct a comprehensive sentiment analysis. By analyzing tweets in real-time, we aim to discern patterns, trends, and shifts in sentiments expressed by Twitter users throughout the various phases of the lockdown. This study not only seeks to provide a retrospective analysis of the emotional landscape but also serves as a valuable tool for anticipating and responding to future crises.
